@@ -1,4 +1,5 @@
-A flask webapp hosted at <strong>yashbokeh.herokuapp.com</strong>.
+A flask webapp hosted at yashbokeh.herokuapp.com.
 
 Undet plot section ,it generates a financial graph of 'GOOG' stock from Jan 1st 2019 until curernt time. 
 To get data it uses data module from pandas.datareader package, and then uses bokeh library to generate a graph.
+
